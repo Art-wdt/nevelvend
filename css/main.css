@@ -1,0 +1,383 @@
+.h1, h1 {
+    font-size: 3.0rem;
+}
+
+.h3, h3 {
+    font-size: 2.75rem;
+}
+
+.wrapper-first {
+    background-image: url("../img/1.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+
+.navbar-brand__heading {
+    font-family: 'Overlock';
+    font-size: 2.5rem;
+
+}
+
+.navbar-menu__links {
+    font-family: 'Noto Sans';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3;
+    letter-spacing: 0.09em;
+}
+
+.navbar-menu__links a:hover {
+    color: #E8CCA2 !important;
+    border-bottom: 1px solid #B6B6B6;
+    padding-bottom: 3px;
+}
+
+.text-orange {
+    color: #E8A2A2;
+}
+
+.text-blue {
+    color: #A2CBE8;
+}
+
+.hero__heading {
+    font-family: 'Rubik';
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+.hero__description {
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+.btn__text {
+    font-family: 'Noto Sans';
+    font-size: 22px;
+    font-weight: 400;
+   
+}
+
+.intro__img {
+    display: none;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.wrapper-second {
+    background-image: url("../img/2.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+
+.section-second__heading {
+    font-family: 'Rubik';
+    font-weight: 700;
+    line-height: 1.1;  
+    color: #EAEAEA;  
+}
+
+.section-second__description {
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;  
+}
+
+
+.wrapper-third {
+    background-image: url("../img/3.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+}
+
+.section-third__heading {
+    font-family: 'Rubik';
+    font-weight: 700;
+    line-height: 1.1;  
+    color: #EAEAEA;   
+}
+
+.section-third__description {
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;  
+}
+
+.wrapper-third .nav-link {
+    font-family: 'Noto Sans';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;  
+}
+
+.wrapper-third .nav-item .active {
+    background-color: transparent !important;
+    color: #E8CCA2 !important;
+    border-bottom: 1px solid #B6B6B6;
+    padding-bottom: 3px;
+}
+
+.tab-pane p {
+    font-family: 'Noto Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;   
+    opacity: 0.7;
+    
+}
+
+
+
+.vip-price__link {
+    font-family: 'Noto Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;   
+    opacity: 0.7;
+    text-decoration: underline;
+}
+
+.wrapper-fourth {
+    background-image: url("../img/4.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+}
+
+.section-fourth__heading {
+    font-family: 'Rubik';
+    font-weight: 500;
+    line-height: 1.1;  
+    color: #EAEAEA;   
+}
+
+.section-fourth__description {
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;  
+}
+
+.btn-rounded {
+    border: 1px solid #666666;
+    padding: 5px 25px;
+    border-radius: 19px;
+
+}
+
+.footer__heading {
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.3;  
+    color: #E8A2A2; 
+    letter-spacing: 0.03em;  
+}
+
+.footer__description {
+    font-family: 'Noto Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;  
+    opacity: 0.7;
+}
+
+.footer__link {
+    font-family: 'Noto Sans';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.3;  
+    color: #EAEAEA; 
+    letter-spacing: 0.03em;   
+    opacity: 0.5;
+    text-decoration: underline;
+}
+
+.footer__copyright {
+    color: #EAEAEA;
+    opacity: 0.2;
+}
+
+.form-control {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #EAEAEA;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 400;
+    color: #EAEAEA; 
+}
+
+.form-control:hover {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #EAEAEA;  
+    color: white; 
+}
+
+.form-control:active {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #EAEAEA;
+    color: white; 
+}
+
+.form-control:focus {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #EAEAEA;
+    color: white; 
+}
+
+.last-link {
+    display: none;
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+ul li {
+    color:#EAEAEA;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+li i {
+    color:#EAEAEA;
+}
+
+li i:hover {
+    color:#838383;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .wrapper-first, .wrapper-second, .wrapper-third, .wrapper-fourth {
+      background-image: none;
+    }
+
+    .text-blue {color: white;}
+
+    .navbar-brand__heading {
+        margin: 0 auto;
+        font-size: 3.2rem;
+    }
+
+    .intro__img {
+        display: block;}
+
+    .nav-link {
+        text-align: right;
+        margin-right: 0 !important;
+    }
+    .last-link {
+        display: inline;
+    }
+
+    .btn__group {
+        display: flex !important;
+        justify-content: center !important;
+        flex-wrap:wrap;
+    }
+    .h1, h1 {
+        text-align: center;
+    }
+    .h3, h3 {
+        text-align: center;
+    }
+
+    .hero__description, .section-second__description, .section-third__description, .tab-content, .vip-price__item, .section-fourth__description, .footer {
+        text-align: center;
+        line-height: 1.4;
+    }
+
+    .bit {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .nav-pills {
+        justify-content: center;
+    }
+
+  }
+
+@media only screen and (max-width: 440px) {  
+    .h1, h1 {
+        font-size: 2.0rem;
+    }
+    
+    .h3, h3 {
+        font-size: 1.75rem;
+    }
+    .btn__group {
+        flex-direction: column;
+    }
+    .btn__group .btn {
+        margin: 1.5rem 0 !important;
+    }
+    .tab-pane p {
+        font-size: 15px;
+    }
+}
+  
+@media only screen and (max-width: 290px) {
+    .h1, h1 {
+        font-size: 1.5rem;
+    }
+    
+    .h3, h3 {
+        font-size: 1.3rem;
+    }
+
+    .navbar-brand__heading {
+        font-size: 1.75rem;
+    }
+
+    .hero__description, .section-second__description, .section-third__description, .tab-content, .vip-price__item, .section-fourth__description, .footer {
+        font-size: 16px;
+    }
+
+    .btn__text {
+        font-size: 16px;
+    }
+
+    .footer__copyright {
+        font-size: 13px;
+    }
+  }
