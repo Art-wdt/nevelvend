@@ -7,7 +7,7 @@
 }
 
 .wrapper-first {
-    background-image: url("../img/1.png");
+    background-image: url("../img/1.jpg");
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: cover;
@@ -69,7 +69,7 @@
 }
 
 .wrapper-second {
-    background-image: url("../img/2.png");
+    background-image: url("../img/2.jpg");
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: cover;
@@ -93,7 +93,7 @@
 
 
 .wrapper-third {
-    background-image: url("../img/3.png");
+    background-image: url("../img/3.jpg");
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: cover;
@@ -156,7 +156,7 @@
 }
 
 .wrapper-fourth {
-    background-image: url("../img/4.png");
+    background-image: url("../img/4.jpg");
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
@@ -279,7 +279,6 @@ li i {
 li i:hover {
     color:#838383;
 }
-
 
 
 
